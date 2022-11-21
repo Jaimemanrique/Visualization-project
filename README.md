@@ -4,7 +4,7 @@
 <br /> 📍 Ya en el propio Tableau cree las relaciones y cree columnas con datos mas especificos para poder visualizar lo que quisiera. <br />
 <br /> 📍 Estas son las tablas que hice: <br />
 <br /> 🎖️ Esta primera muestra el top 25 de los deportistas con mas medallas: <br /> 
-<br />  <img width="866" alt="Screenshot 2022-11-21 at 14 53 50" src="https://user-images.githubusercontent.com/114593402/203086416-0bed3bd1-9a8d-464a-9127-349d7f4c78c4.png"> <br />
+<br /> <img width="869" alt="Screenshot 2022-11-21 at 16 16 22" src="https://user-images.githubusercontent.com/114593402/203091427-faa2ef10-8424-4205-9544-31631b9736a0.png"> <br />
 <br /> 🎖️ Los 10 paises con mas medallas en total: <br /> 
 <br /> <img width="515" alt="Screenshot 2022-11-21 at 15 02 55" src="https://user-images.githubusercontent.com/114593402/203087016-f8d29caa-99f1-49ae-a135-8dc994b7508f.png"> <br /> 
 <br /> 🎖️ Top 10 de paises con mas deportistas en los juegos: <br /> 
